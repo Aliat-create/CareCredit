@@ -1,0 +1,11 @@
+{
+  "name": "اعتبار سلامت",
+  "short_name": "اعتبار سلامت",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#0f172a",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": []
+}
